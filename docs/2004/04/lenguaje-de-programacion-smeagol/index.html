@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#494f5c">
+	<meta name="msapplication-TileColor" content="#494f5c">
+
+<meta itemprop="name" content="Lenguaje de programación Smeagol">
+<meta itemprop="description" content="El lenguaje de programación Smeagol fue creado por John Burrhus Maximus en el centro Xerox de Palo Alto, entre 1976 y 1977. Más tarde fue implementado en Unix V y cuenta con interfaz de compilación para gcc. Actualmente se está probando una versión beta mejorada, Gollum, pero Smeagol sigue siendo el marco de referencia para miles de programadores en todo el mundo &#8211; quitándole cuotas de mercado a Perl y COBOL.">
+
+
+<meta itemprop="datePublished" content="2004-04-28T23:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2004-04-28T23:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="765">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta property="og:title" content="Lenguaje de programación Smeagol" />
+<meta property="og:description" content="El lenguaje de programación Smeagol fue creado por John Burrhus Maximus en el centro Xerox de Palo Alto, entre 1976 y 1977. Más tarde fue implementado en Unix V y cuenta con interfaz de compilación para gcc. Actualmente se está probando una versión beta mejorada, Gollum, pero Smeagol sigue siendo el marco de referencia para miles de programadores en todo el mundo &#8211; quitándole cuotas de mercado a Perl y COBOL." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/2004/04/lenguaje-de-programacion-smeagol/" />
+<meta property="article:published_time" content="2004-04-28T23:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2004-04-28T23:00:00&#43;00:00"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Lenguaje de programación Smeagol"/>
+<meta name="twitter:description" content="El lenguaje de programación Smeagol fue creado por John Burrhus Maximus en el centro Xerox de Palo Alto, entre 1976 y 1977. Más tarde fue implementado en Unix V y cuenta con interfaz de compilación para gcc. Actualmente se está probando una versión beta mejorada, Gollum, pero Smeagol sigue siendo el marco de referencia para miles de programadores en todo el mundo &#8211; quitándole cuotas de mercado a Perl y COBOL."/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>Lenguaje de programación Smeagol</title>
+	<link rel="stylesheet" href="/css/style.min.c693329ce3bac2503f88115a4011a284a06d53e30f484562a37664dc4c5f0a74.css" integrity="sha256-xpMynOO6wlA/iBFaQBGihKBtU+MPSEVio3Zk3ExfCnQ=">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp faster">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="/">Remoquete.com</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					<a href="/posts/">Posts</a>
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://twitter.com/remoquete" target="_blank" rel="noopener" title="Twitter"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-twitter"><path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path></svg></a><a href="https://github.com/theletterf" target="_blank" rel="noopener" title="Github"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-github"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="/posts/">Posts</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner thin animated fadeIn faster">
+		<h1>Lenguaje de programación Smeagol</h1>
+		<div class="content">
+			<p>El lenguaje de programación <strong>Smeagol</strong> fue creado por John Burrhus Maximus en el centro Xerox de Palo Alto, entre 1976 y 1977. Más tarde fue implementado en Unix V y cuenta con interfaz de compilación para gcc. Actualmente se está probando una versión beta mejorada, <strong>Gollum</strong>, pero Smeagol sigue siendo el marco de referencia para miles de programadores en todo el mundo &#8211; quitándole cuotas de mercado a Perl y COBOL.</p>
+
+<p>Smeagol fue concebido como un lenguaje orientado a deseos &#8211; aunque toma elementos de la programación orientada a objetos y la programación orientada a aspectos. Al ser un lenguaje POD, el programador puede limitarse a un nivel especulativo-abstracto, creando funciones totalmente inútiles que llenen el código de basura y dificulten por lo tanto el plagio digital de la fuente. Veamos un ejemplo de típico programa &#8220;Hola Mundo!&#8221; hecho en Smeagol:</p>
+
+<p>``~~// Comentario &#8220;cola de ratón&#8221;<br />
+~~// Este programa dice &#8220;Hola Mundo!&#8221;</p>
+
+<p>import smeagol.mouth.tongue.blabla.*<br />
+import smeagol.whatever.yakyak.*<br />
+export rubbish</p>
+
+<p>static dead frozen class iMpRoPeRiO {<br />
+public return kiss main (String[] Shoes) {</p>
+
+<p>system.speakers.ShoutOutLoud(&#8220;Hola Mundo&#8221; + &#8220;!&#8221;);;<br />
+system.washMouth();<br />
+system.getTheHellOutofHere();</p>
+
+<p>break(down);</p>
+
+<p>}<br />
+}</p>
+
+<p>Smeagol es un lenguaje de nivel medio-bajo, dependiendo de la humedad y la temperatura del programador. Soporta herencia, divorcios, adopciones y matanzas. El manejo del espacio en memoria es bastante dinámico: tras cada ciclo de reloj, el interprete se encarga de ir quitando variables hasta que el programa deja de funcionar &#8211; de ahí que se diga que Smeagol es un lenguaje extremadamente rápido (&#8220;efímero&#8221; dicen los críticos). El manejo de excepciones es realmente innovador: si el interprete halla una excepción, abre enseguida el Buscaminas para que el programador pase un rato agradable. En todo caso, la mayoría de IDEs para Smeagol cuentan con un botón de pánico que activa la eyección automática del disco duro a través de una ventanilla en la semi-torre.</p>
+
+<p>Los tipos primitivos o tipos de variables de Smeagol son los siguientes: <code>boolean, bolero, int, char, float, string, double, triple, extra-with-cheese, hotstuff, whoop, bigwhoop y vacuum</code>. La conversión de un tipo a otro se lleva a cabo mediante la función <code>makeItFit()</code>. El tipo boleano de Smeagol es especial: sus valores posibles se ajustan a una teoría de lógica difusa, así que además de <code>true y false</code> tenemos <code>maybe, perhaps, would-be-good, nice</code> y <code>yewch!</code>. Es un poco complicado de dominar al principio, pero luego las ventajas son muchas. Por lo que se refiere al tipo <code>vacuum</code> hace referencia a un tipo de variable vacía, ideal para programas de <em>guru meditation</em>.</p>
+
+<p>Los operadores aritméticos y semánticos de Smeagol son pocos pero sencillos:</p>
+
+<p><code>+ para sumar&lt;br /&gt;
+- para restar&lt;br /&gt;
+* para multiplicar&lt;br /&gt;
+/ para dividir&lt;br /&gt;
+% módulo&lt;br /&gt;
+$ dólares&lt;br /&gt;
+€ euro&lt;br /&gt;
+ª mujer&lt;br /&gt;
+º hombre&lt;br /&gt;
+? ojitos en la noche&lt;br /&gt;
+ç concatenación dulce</code></p>
+
+<p>Por lo que se refiere a los operadores relacionales, unarios y lógicos, tenemos:</p>
+
+<p><code>++ añade una unidad&lt;br /&gt;
+-- quita una unidad&lt;br /&gt;
++- un pasito atrás y uno alante&lt;br /&gt;
+-+ al revés, nena&lt;br /&gt;
++-+- tango&lt;br /&gt;
+&gt; mayor que&lt;br /&gt;
+&lt; menos que&lt;br /&gt;
+v más alto&lt;br /&gt;
+^ más bajo&lt;br /&gt;
+= asignación&lt;br /&gt;
+== igual&lt;br /&gt;
+!= hey&lt;br /&gt;
+=== tubería&lt;br /&gt;
+&amp;&amp; inglés&lt;br /&gt;
+|| pared&lt;br /&gt;
+---&gt; gira a la derecha</code></p>
+
+<p>Las estructuras de control de flujo y los bucles son variados. La principal novedad con respecto al lenguaje C es la eliminación de <code>if... else</code> por <code>if... watchOut... lastWarning... or else... then...</code> que añade muchísima más riqueza al código. Los bucles pueden llevarse a cabo con <code>for( ; ; )</code> o con <code>repeatThat()</code>. Por lo que se refiere a los <code>do... while</code> han sido sustituidos por los <code>do... until... or else...</code> y el famosísimo bucle de un solo paso, <code>just do it</code>. Los bucles pueden anidarse facilmente, pero romperlos es muy difícil, a menos que se use la función <code>gotoHell</code> o similares. Smeagol puede crear y manejar ventanas mediante la biblioteca <code>myTreasureX</code>, pero también puede hacerlo con puertas, sillas, mesas y estanterías.</p>
+
+<p>Smeagol está siendo intensamente empleado en la industria bélica para guía de misiles imprevisibles y tácticas de intereferencia electrónica irónica. También se utiliza para programar automátas psicóticos y aplicaciones de cálculo de seguros de vida. Los sistemas expertos programados en Smeagol son eficaces y muestran cierta tendencia a la doble personalidad &#8211; síntoma del avanzado polimorfismo de la POD. El inteprete-terapeuta de Smeagol está disponible para las plataformas x86, Amiga, Dreamcast, SPARC, Itanium y Heidi. Funciona en los principales sistemas operativos: Linux, Finux, Minix, Windows, Hasefroch, DOS, TRES, TESSERA, PENTE, OS/2, OS/TIA, DEC, MEC, YAK, Irix, Chulix, Asterix, SkyOS, Spectrum, etcétera.</p>
+
+		</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2019 <a href="/">Fabrizio Ferri-Benedetti</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+	<script src="/js/main.min.8f39f24808e9d0a9b02da58c2d2838da859dc0b7bdfadbdb1883aae8b6adacfe.js" integrity="sha256-jznySAjp0KmwLaWMLSg42oWdwLe9+tvbGIOq6LatrP4="></script>
+
+</body>
+
+</html>

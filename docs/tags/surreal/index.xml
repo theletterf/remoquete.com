@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surreal on Remoquete.com</title>
+    <link>/tags/surreal/</link>
+    <description>Recent content in Surreal on Remoquete.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 31 Jan 2008 14:51:22 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/surreal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Diálogo con la almohada</title>
+      <link>/2008/01/dialogo-con-la-almohada/</link>
+      <pubDate>Thu, 31 Jan 2008 14:51:22 +0000</pubDate>
+      
+      <guid>/2008/01/dialogo-con-la-almohada/</guid>
+      <description>A eso de las nueve menos cuarto, cuando uno vuelve a dormir después de los primeros despertares automáticos, me hallaba sumergido en el sueño más placentero, ese estado de penumbra mental que permite disfrutar del momento en su plenitud: la calidez de las sábanas limpias, el colchón amoldado alrededor del cuerpo, la temperatura constante, el estruendo de la ciudad paseando delante de mis oídos, la vejiga sugiriendo que ya era hora de cambiar el agua a las aceitunas, el estómago rugiendo, la erección matutina, y otras cosas que hace el cuerpo para arrancar en frío.</description>
+    </item>
+    
+  </channel>
+</rss>

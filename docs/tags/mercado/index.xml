@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mercado on Remoquete.com</title>
+    <link>/tags/mercado/</link>
+    <description>Recent content in Mercado on Remoquete.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 14 Aug 2008 17:23:02 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mercado/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genética, capital de riesgo</title>
+      <link>/2008/08/genetica-capital-de-riesgo/</link>
+      <pubDate>Thu, 14 Aug 2008 17:23:02 +0000</pubDate>
+      
+      <guid>/2008/08/genetica-capital-de-riesgo/</guid>
+      <description>Esta mañana cayó en mis manos un ejemplar de Muy Interesante en el que campeaba el siguiente titular: &amp;#8220;Genes que traen de cabeza: Varias empresas ya ofrecen análisis para conocer la propensión congénita a sufrir esquizofrenia y trastorno bipolar&amp;#8221;. Me apresuré a buscar el artículo en el interior: era bastante menos sensacionalista. Hablaba, eso sí, de una empresa americana, Psynomics, de la que examiné la web por encima. Como en otros casos, el de Psynomics me olió a marketing agresivo de factoides.</description>
+    </item>
+    
+  </channel>
+</rss>

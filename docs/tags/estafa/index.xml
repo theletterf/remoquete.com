@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estafa on Remoquete.com</title>
+    <link>/tags/estafa/</link>
+    <description>Recent content in Estafa on Remoquete.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 29 Sep 2008 22:04:01 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/estafa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Trolas magnéticas</title>
+      <link>/2008/09/trolas-magneticas/</link>
+      <pubDate>Mon, 29 Sep 2008 22:04:01 +0000</pubDate>
+      
+      <guid>/2008/09/trolas-magneticas/</guid>
+      <description>Hace unos días, sin comerlo ni beberlo, una persona me abordó en IRC para hablarme de un invento que &amp;#8220;revolucionaría el mundo&amp;#8221;. Nada menos. Se me rizaron las antenas en un picosegundo.
+El invento en cuestión, que la susodicha había descubierto a través de un amigo de un amigo (esos que se disponen en pirámide), se conoce como Motor de Perendev-Bedini. Me pasó un vídeo en el que se observan ruedas de plástico empezar una rotación al cerrarse un par de soportes (supuestamente a causa de la disposición de muchos imanes que se repelen).</description>
+    </item>
+    
+  </channel>
+</rss>
