@@ -1,0 +1,56 @@
+---
+title: La Productivité, c’est l´Autre
+author: Fabrizio
+type: post
+date: 2015-02-21T13:26:36+00:00
+url: /2015/02/la-productivite-cest-lautre/
+categories:
+  - Remoquetes
+
+---
+<p style="text-align: right;">
+   Y<em>ou can see the computer age everywhere<br /> but in the productivity statistics.</em>
+</p>
+
+<p style="text-align: right;">
+  —<a href="http://en.wikipedia.org/wiki/Robert_Solow" target="_blank">Robert Solow</a>
+</p>
+
+1987: el economista y premio Nobel Robert Solow concluía <a href="http://www.standupeconomist.com/pdf/misc/solow-computer-productivity.pdf" target="_blank">su reseña</a> de un ensayo sobre la economía post-industrial con una frase lapidaria: la era de los ordenadores puede verse por doquier, excepto en las estadísticas de productividad. 1995: Jeremy Rifkin describía en <a href="http://en.wikipedia.org/wiki/The_End_of_Work" target="_blank">The End of Work</a> un mundo en el que la tecnología de la información eliminaría la mayoría de puestos de trabajo tradicionales. 2015: Paul Graham, fundador de Y Combinator, <a href="http://paulgraham.com/work.html" target="_blank">confiesa</a> que el mejor trabajo es el que no lo parece.
+
+Setenta años antes, en 1945, el ingeniero e inventor [Vannevar Bush][1] describía en su famoso artículo _As We May Think_ el <a href="http://en.wikipedia.org/wiki/Memex" target="_blank">Memex</a>, un híbrido de mueble de oficina y visor de micro-películas que pretendía emular la forma en que el cerebro almacenaba y recuperaba información. El Memex era el precursor del PC conectado a Internet. Según Bush, este aparato o uno similar podría ayudar la humanidad a compartir conocimientos y, por ende, a producir más y mejor.
+
+<img class="aligncenter  wp-image-244777735" src="https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1-1024x700.jpg?resize=604%2C413" alt="m emex" width="604" height="413" srcset="https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=1024%2C700 1024w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=300%2C205 300w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=150%2C103 150w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=1200%2C820 1200w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=400%2C273 400w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=800%2C547 800w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?resize=200%2C137 200w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/m-emex1.jpg?w=1560 1560w" sizes="(max-width: 604px) 100vw, 604px" data-recalc-dims="1" /> 
+
+La idea del Memex ha condicionado la informática de usuario hasta el día de hoy. En su libro <a href="http://en.wikipedia.org/wiki/The_Road_Ahead_%28Bill_Gates_book%29" target="_blank">The Road Ahead</a>, de 1995, Bill Gates conectaba la idea del Memex con las recién abiertas &#8220;autopistas de la información&#8221;. Su libro, como la Microsoft de aquel entonces, estaba centrada en el mundo de los negocios, en poner Windows 95, Office e Internet Explorer en todas las oficinas. El sueño era el de una mayor productividad, muy distinto al de <a href="http://remoquete.com/2015/01/fuga-hacia-la-realidad/" target="_blank">la Microsoft de ahora</a>.
+
+Hoy activo la pantalla de mi iPhone y no veo apps que me hagan más productivo en un sentido estrictamente laboral. Los ordenadores que hay en la oficina tampoco me ayudan a trabajar. Lo que hago con ellos podría hacerlo en otro soporte, como <a href="https://medium.com/backchannel/the-last-of-the-typewriter-men-729f150c5083" target="_blank">una máquina de escribir</a> o una libreta. Las tecnologías de la información me entretienen, educan y socializan, pero no me hacen mejor trabajador. Me ayudan a <a href="http://www.theatlantic.com/business/archive/2014/11/the-art-of-not-working-at-work/382121/?single_page=true" target="_blank">distraerme</a> y a verter conocimiento más rápido, pero ya está.
+
+No es que las <a href="http://es.wikipedia.org/wiki/Tecnolog%C3%ADas_de_la_informaci%C3%B3n_y_la_comunicaci%C3%B3n" target="_blank">TIC</a> hayan fracasado. Si no nos hacen productivos, es porque no hay nada que producir.
+
+<p style="text-align: center;">
+  <img class="aligncenter size-full wp-image-244777737" src="https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?resize=740%2C435" alt="Excel 2016" width="740" height="435" srcset="https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?w=740 740w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?resize=300%2C176 300w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?resize=150%2C88 150w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?resize=400%2C235 400w, https://i2.wp.com/remoquete.com/wp-content/uploads/2015/02/excel.jpg?resize=200%2C118 200w" sizes="(max-width: 740px) 100vw, 740px" data-recalc-dims="1" />
+</p>
+
+<p style="text-align: center;">
+  <em>Excel 2016. La metáfora del escritorio no está muerta: simplemente huele mal</em>
+</p>
+
+Pienso, comunico y genero satisfacción en las mentes que reciben el fruto de mis elucubraciones, pero nada diferencia esta actividad de lo que podría hacer en mi tiempo libre. Cuando se trabaja con conocimiento, el concepto de productividad se difumina y pierde sentido. A pesar de ello, nos obsesionamos con medirla y estamos convencidos de que el software, que es una extensión de nuestras mentes, nos ayuda a ser un buen engranaje de la economía. <a href="http://strikemag.org/bullshit-jobs/" target="_blank">Un elaborado autoengaño</a>.
+
+> _For many ages to come the old Adam will be so strong in us that everybody will need to do some work if he is to be contented. [&#8230;] fifteen-hour week may put off the problem for a great while.  
+>_ 
+> 
+> <p style="text-align: right;">
+>   —<a href="http://www.econ.yale.edu/smith/econ116a/keynes1.pdf" target="_blank">John Maynard Keynes</a>
+> </p>
+
+<p style="text-align: left;">
+  Si es cierto que seguimos trabajando por imperativos morales y políticos, si es verdad que lo hacemos para mantener una estructura económica que requiere ciclos de actividad, descanso y consumo regulares, el software tiene a la vez el mayor potencial para cambiar el mundo y a la vez reforzar el <em>status quo, </em>pues es el medio que nos conecta cada vez más para coordinar <a href="http://www.forbes.com/sites/aswathdamodaran/2014/06/10/a-disruptive-cab-ride-to-riches-the-uber-payoff/" target="_blank">creación y destrucción del trabajo</a>. En el mundo de las apps, juego, trabajo y entretenimiento se funden.
+</p>
+
+<p style="text-align: left;">
+  Por eso meneo la cabeza cada vez que alguien habla de cómo las apps y el software pueden <a href="http://www.forbes.com/sites/ilyapozin/2015/02/11/sure-apps-distract-you-but-they-can-also-make-you-more-productive/" target="_blank">hacernos más productivos</a>. Excepto en dominios intelectuales muy concretos, como el diseño industrial o las finanzas, el software no nos hace más productivos, sino más expresivos y conectados. En esta época de información interconectada no son las herramientas las que nos hacen ser productivos, sino las circunstancias y las personas (y las apps que las conectan). En resumen: la productividad son los otros.
+</p>
+
+ [1]: http://en.wikipedia.org/wiki/Vannevar_Bush

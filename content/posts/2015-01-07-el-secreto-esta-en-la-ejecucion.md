@@ -1,0 +1,19 @@
+---
+title: El secreto está en la ejecución
+author: Fabrizio
+type: post
+date: 2015-01-07T10:30:50+00:00
+url: /2015/01/el-secreto-esta-en-la-ejecucion/
+categories:
+  - Remoquetes
+
+---
+Durante años, uno de mis buenos propósitos de año nuevo fue crear una obra nueva, ser original. Este año lo he descartado, y no porque no vaya a crear, sino porque quiero deshacerme de un yugo inútil. Al igual que el éxito y la productividad, la originalidad es una de las muchas trampas mentales que definen la época en que vivimos. Llevamos <a href="http://en.wikipedia.org/wiki/Originality" target="_blank">más de dos siglos</a> obsesionados con la originalidad, pero es una fijación romántica sin la cual la humanidad se las apañó durante milenios. Ahora esta obsesión nos empuja a buscar la creatividad a toda costa, con resultados a menudo <a href="http://www.brainpickings.org/2014/09/26/cryptomnesia-psychology-of-writing/" target="_blank">irónicos</a>, más que nada porque, como dice Om Malik, <a href="http://om.co/2015/01/03/on-being-original/" target="_blank">estamos interconectados</a> como nunca y ya no quedan vacíos en los que engendrar.
+
+Da igual lo difícil que sea alcanzar la originalidad: hay que meditar si vale la pena intentarlo.
+
+El mejor símil que he encontrado para resolver la cuestión me lo ha proporcionado mi hermano, que es cantante de ópera barroca. Como muchos intérpretes de música antigua, mi hermano pasa gran parte de su tiempo estudiando partituras y libretos que llevan acumulando polvo desde la Revolución Francesa. Uno de los aspectos más interesantes de su trabajo es que a menudo interpreta por primera vez arias que jamás tuvieron estreno, o que lo tuvieron hace muchísimo tiempo. No está creando _sensu stricto_, sino recreando. En ocasiones se ve obligado a hacer de restaurador y llenar huecos dejados por los compositores originales o por el tiempo. La suya es creación derivativa, consciente de sus orígenes.
+
+El músico clásico, con su respeto hacia la tradición y la ejecución fiel de lo que hay en la partitura, me recuerda <a href="http://en.wikipedia.org/wiki/Japanese_swordsmithing" target="_blank">al artesano japonés</a> en su taller, que perfecciona a través de centenares de iteraciones una misma receta hasta conseguir objetos impecables. También me recuerda a empresas como Apple o Volkswagen, que interpretan composiciones existentes -el ordenador, el coche- con una perfección que no suele encontrarse en otros fabricantes. Lo que hace únicas empresas así no es la originalidad, sino la ejecución de las piezas. Quien plagia, por otro lado, toca de oído: su ejecución carece de sustancia. Es el caso de los <a href="http://www.cultofandroid.com/66569/xiaomi-dont-copy-apple/" target="_blank">clones</a> de Xiaomi; si Apple es Arthur Rubinstein, Xiaomi es <a href="http://en.wikipedia.org/wiki/Richard_Clayderman" target="_blank">Richard Clayderman</a>.
+
+La importancia de la ejecución por encima de la originalidad se comprueba al repasar la historia de la tecnología, que rebosa de <a href="http://listverse.com/2013/01/12/10-innovative-pieces-of-technology-that-failed-miserably/" target="_blank">inventos que fracasaron</a> por una ejecución pobre. Aspectos como el marketing o la calidad tienen poco que ver con la imagen romántica del inventor, del creador puro encerrado en su cabaña o en un garaje, pero son los elementos que finalmente determinan el éxito de una empresa. Y al igual que la interpretación de una aria requiere mucha creatividad, lo mismo ocurre con el diseño de un producto de consumo: el mito de la originalidad nos ha acostumbrado a pensar que la imitación y la reproducción carecen de mérito, cuando en realidad son actos creativos de primer orden.
