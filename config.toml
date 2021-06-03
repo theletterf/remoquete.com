@@ -29,6 +29,10 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "Todos los posts"
     url = "posts/"
     weight = 10
+  [[menu.main]]
+    name = "Passo.uno"
+    url = "https://passo.uno"
+    weight = 9
