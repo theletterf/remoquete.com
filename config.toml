@@ -35,4 +35,4 @@ publishDir = "docs"
   [[menu.main]]
     name = "Passo.uno"
     url = "https://passo.uno"
-    weight = 9
+    weight = 11
